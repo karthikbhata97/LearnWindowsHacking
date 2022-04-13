@@ -5,3 +5,5 @@
 3. [API Monitor](http://www.rohitab.com/apimonitor#Download)
 4. [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 5. [Accessibility Insights](https://accessibilityinsights.io/) or Scout Data Agent
+6. [Ghidra](https://ghidra-sre.org/)
+7. [dnSpy](https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8)

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LicenseValidator3/1.0.0": {
+        "runtime": {
+          "LicenseValidator3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LicenseValidator3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
